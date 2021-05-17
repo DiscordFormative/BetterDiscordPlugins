@@ -1,0 +1,30 @@
+{
+    "name": "WhoReacted",
+    "description": "Shows the avatars of the users who reacted to a message.",
+    "version": "1.2.3",
+    "author": {
+        "id": "669888540032761887",
+        "name": "iBPlus"
+    },
+    "invite": "9KAXM9ubfk",
+    "website": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/WhoReacted",
+    "source": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/WhoReacted",
+    "updateUrl": "https://github.com/DiscordFormative/BetterDiscordPlugins/release/dist/WhoReacted/WhoReacted.plugin.js",
+    "changelog": [
+        {
+            "title": "So many settings",
+            "items": [
+                "Added settings to let you decide whether you want to hide or show yourself and/or bots in the reactors (Thanks @FichteFoll on GitHub).",
+                "Added setting to set the avatars size (Thanks @FichteFoll on GitHub).",
+                "Categorized the settings for better organization and easier access."
+            ]
+        },
+        {
+            "title": "I knew I shouldn't mess with the comparisons",
+            "type": "fixed",
+            "items": [
+                "Fixed setting to not show yourself not working for everyone (Thanks again @FichteFoll on GitHub)."
+            ]
+        }
+    ]
+}

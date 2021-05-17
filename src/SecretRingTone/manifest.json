@@ -1,0 +1,13 @@
+{
+    "name": "SecretRingTone",
+    "description": "Always plays the secret ring tone when someone calls you.",
+    "version": "1.0.0",
+    "author": {
+        "id": "669888540032761887",
+        "name": "iBPlus"
+    },
+    "invite": "9KAXM9ubfk",
+    "website": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/SecretRingTone",
+    "source": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/SecretRingTone",
+    "updateUrl": "https://github.com/DiscordFormative/BetterDiscordPlugins/release/dist/SecretRingTone/SecretRingTone.plugin.js"
+}

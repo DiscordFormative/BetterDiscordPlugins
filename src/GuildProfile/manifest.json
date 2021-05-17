@@ -1,0 +1,30 @@
+{
+    "name": "GuildProfile",
+    "description": "Adds a modal that can be opened via any guild menu and contains various information about the guild, such as its owner, creation date, joined date, your friends and blocked users who are in it, and much more.",
+    "version": "1.0.4",
+    "author": {
+        "id": "669888540032761887",
+        "name": "iBPlus"
+    },
+    "invite": "9KAXM9ubfk",
+    "website": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/GuildProfile",
+    "source": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/GuildProfile",
+    "updateUrl": "https://github.com/DiscordFormative/BetterDiscordPlugins/release/dist/GuildProfile/GuildProfile.plugin.js",
+    "changelog": [
+        {
+            "title": "Improvements",
+            "type": "improved",
+            "items": [
+                "Added setting to control the position of the guild profile option on the guild context menu (Thanks @QWERTxD on GitHub)."
+            ]
+        },
+        {
+            "title": "Compatibility issues",
+            "type": "fixed",
+            "items": [
+                "Fixed role members menu being inside of the guild profile menu.",
+                "Fixed permission viewers menu disappearing."
+            ]
+        }
+    ]
+}

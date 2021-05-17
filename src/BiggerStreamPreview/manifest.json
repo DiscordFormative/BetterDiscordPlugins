@@ -1,0 +1,13 @@
+{
+    "name": "BiggerStreamPreview",
+    "description": "Adds a button in the context menu to see bigger stream previews.",
+    "version": "1.0.5",
+    "author": {
+        "id": "669888540032761887",
+        "name": "iBPlus"
+    },
+    "invite": "9KAXM9ubfk",
+    "website": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/BiggerStreamPreview",
+    "source": "https://github.com/DiscordFormative/BetterDiscordPlugins/tree/release/src/BiggerStreamPreview",
+    "updateUrl": "https://github.com/DiscordFormative/BetterDiscordPlugins/release/dist/BiggerStreamPreview/BiggerStreamPreview.plugin.js"
+}
